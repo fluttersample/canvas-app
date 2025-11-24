@@ -1,4 +1,4 @@
-# test_notifi
+# canvas app
 
 A new Flutter project.
 
